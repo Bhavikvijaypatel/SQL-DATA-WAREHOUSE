@@ -108,6 +108,6 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+I'm Bhavik Patel, a Data Engineer with hands-on experience in building scalable ETL pipelines and data solutions using Python, SQL, and Azure. I’ve worked extensively with Azure Data Factory, Databricks, Synapse Analytics, and Power BI to drive real-time analytics and business insights. At HCL Technologies, I optimized data workflows and CI/CD processes, improving efficiency by up to 40%. My projects include churn prediction using Azure ML and data warehouse design with star schema modeling. I'm passionate about clean data architecture and collaborating on impactful data-driven solutions.
 
 
